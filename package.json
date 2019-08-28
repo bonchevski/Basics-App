@@ -2,7 +2,7 @@
   "name": "basics-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://bonchevski/github.io/Basics-App",
+  "homepage":"https://bonchevski.github.io/Basics-App",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
